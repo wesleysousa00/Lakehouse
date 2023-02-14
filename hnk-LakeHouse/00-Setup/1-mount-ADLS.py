@@ -21,9 +21,9 @@
 # COMMAND ----------
 
 storage_account_name = "hnkadls02"                   #Datalake
-client_id = "b2dc161a-584a-458d-be73-d873306c528f"   #Databricks publico (app-register)
-tenant_id = "37b4cc30-3315-4598-89e5-e6190a702bc0"   #Databricks publico (app-register)
-client_secret = "P588Q~jmw-GB9ngkiCMSzFwoYW9LcDF1Rw_r7bsX"  #Databricks
+client_id = ""   #Databricks publico (app-register)
+tenant_id = ""   #Databricks publico (app-register)
+client_secret = ""  #Databricks
 
 # COMMAND ----------
 
